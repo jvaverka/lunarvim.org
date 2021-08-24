@@ -10,5 +10,7 @@ Christian Chiarulli
 
 [Luc Sinet](https://github.com/Tastyep)
 
+[Jacob Vaverka](https://jvaverka.github.io/)
+
 
 (other devs pls make pr and add your name and a link to whatever you want)
